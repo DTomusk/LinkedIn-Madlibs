@@ -2,12 +2,12 @@
 "templates":[
 	{"title":"my life sucks but I still somehow manage to be awesome",
 	"text":"My life is actually really hard because {reason-why-my-life-is-so-hard}, but I still somehow managed to {significant-activity}. Through this I have developed my {skill}, {skill} and {skill} skills."},
-	{"title":"I'm pretty sure everyone's struggling right now, so whatever I manage to do must be amazing",
+	{"title":"I'm pretty sure everyone's struggling right now, so the fact that I'm furthering my career is amazing",
 	"text":"Everyone's been bummed out by {global-catastrophe} lately and have not managed to get any work done, however I've been able to overcome these {describe-the-circumstances} circumstances and have gone on to {significant-activity}"},
 	{"title":"I'm pretending to thank a company for how good they've been to me so it's not obvious I'm actually bragging about myself",
 	"text":"Thanks to {multinational-corporation} for the amazing opportunity to {unpaid-work} during this {describe-the-circumstances} time"},
 	{"title":"Oscar acceptance speech", 
-	"text":"I'm so {}"}
+	"text":"I'm so {positive-emotion} to have {achievement}. I have to thank {significant-person}, {significant-person}, and most importantly, {significant-person} for how they {method-of-support}."}
 ],
 "reason-why-my-life-is-so-hard":[
 	"my cat ran away",
@@ -18,7 +18,9 @@
 	"there's too many people in the park, that used to be my quiet place but now there's just a bunch of kids everywhere, it's disgusting",
 	"my mom put parental controls back on my computer",
 	"I didn't go to a zoom meeting and no one messaged me to check if I was ok",
-	"people don't care about me on instagram anymore"
+	"people don't care about me on instagram anymore",
+	"the feminists have taken over Oceans and Ghostbusters",
+	"I sent a message on the group chat and it killed the conversation"
 ],
 "global-catastrophe":[
 	"Covid 19",
@@ -38,6 +40,7 @@
 ],
 "significant-activity":[
 	"start a free trial on coursera",
+	"start a free trial on audible",
 	"attend a webinar on being your best self",
 	"read a hello world tutorial for python",
 	"download five differend IDEs which I plan to test and review individually before I jump into my new career as a software developer",
@@ -46,7 +49,15 @@
 	"write a bot that pokes fun at the way LinkedIn forces people to act in a certain way that's not true to themselves so soulless multinationals would be interested in buying their labor power",
 	"focus on my career", 
 	"make some time to practice mindfulness during my day",
-	"support the Labor Party on twitter"
+	"support the Labor Party on twitter",
+	"prove the gender pay gap exists",
+	"prove the gender pay gap doesn't exist",
+	"swipe left on a girl because I thought she was fat even though I really liked her bio",
+	"learn five words in Japanese so I could finally watch Naruto without subs",
+	"read Albert Camus and become a cool, cynical nihilist for whom nothing is sacred",
+	"explore eastern spirituality",
+	"read Born to Run and now sit on the sofa with my $200 minimalist shoes on",
+	"dislike a comment on YouTube"
 ],
 "skill":[
 	"leadership",
@@ -56,13 +67,66 @@
 	"sticktoitiveness",
 	"gumption",
 	"attention to detail",
-	"pulling myself up by my bootstraps"
+	"pulling myself up by my bootstraps",
+	"pretentiousness",
+	"communication", 
+	"pedantism",
+	"pessimism",
+	"optimism"
 ],
 "describe-the-circumstances":[
 	"unprecedented",
 	"tough",
 	"gruelling",
 	"difficult",
-	"challenging"
+	"challenging", 
+	"unexpected",
+	"inconveient",
+	"sad", 
+	"scary",
+	"frightful"
+],
+"positive-emotion":[
+	"humbled",
+	"thankful",
+	"amazed",
+	"excited"
+],
+"significant-person":[
+	"Gandhi",
+	"Ghandi",
+	"Tom Brady",
+	"Jared Kushner",
+	"my family",
+	"my fiancee",
+	"my dog",
+	"Obama",
+	"Justin Trudeau",
+	"Jordan Peterson",
+	"Katy Price",
+	"Slavoj Zizek",
+	"Michael Joran",
+	"the Church of Latter Day Saints",
+	"Michael Cera",
+	"Jeb",
+	"Amy Poehler",
+	"Alec Baldwin",
+	"Whoopie Goldberg",
+	"Forrest Gump",
+	"the United States Air Force",
+	"Gordon Ramsay",
+	"Spike Lee",
+	"Michel Foucault",
+	"Charlamagne tha God",
+	"the sovereign state of Tibet",
+	"Akira Kurosawa"
+],
+"method-of-support":[
+	"nurtured my talents",
+	"inspired me",
+	"motivated me to be the very best, like no one ever was",
+	"picked me up when I fell down",
+	"were always on hand when I needed a friend",
+	"opened my eyes to new possibilities"
 ]
 }

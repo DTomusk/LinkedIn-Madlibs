@@ -3,7 +3,7 @@
 	{"title":"my life sucks but I still somehow manage to be awesome",
 	"text":"My life is actually really hard because {reason-why-my-life-is-so-hard}, but I still somehow managed to {significant-activity}. Through this I have developed my {skill}, {skill} and {skill} skills."},
 	{"title":"I'm pretty sure everyone's struggling right now, so the fact that I'm furthering my career is amazing",
-	"text":"Everyone's been bummed out by {global-catastrophe} lately and have not managed to get any work done, however I've been able to overcome these {describe-the-circumstances} circumstances and have gone on to {significant-activity}"},
+	"text":"Everyone's been bummed out by {global-catastrophe} lately and have not managed to get any work done, however I've been able to overcome these {describe-the-circumstances} circumstances and have gone on to {significant-activity}."},
 	{"title":"I'm pretending to thank a company for how good they've been to me so it's not obvious I'm actually bragging about myself",
 	"text":"Thanks to {multinational-corporation} for the amazing opportunity to {unpaid-work} during this {describe-the-circumstances} time"},
 	{"title":"Oscar acceptance speech", 
@@ -87,12 +87,23 @@
 	"frightful"
 ],
 "achievement":[
+	"received a certificate for attending a virtual marketing conference",
+	"completed a codecademy course on JavaScript",
+	"participated in a virtual immersive internship experience",
+	"received a 2:1 degree in pharmacology",
+	"successfully added a public RSA key to my GitHub account",
+	"won the Oscar for best make up for my work in the movie Beetlejuice",
+	"hacked into the mainframe",
+	"kissed enough ass to be the secretary's secretary",
+	"lived, laughed, and loved today"
 ],
 "positive-emotion":[
 	"humbled",
 	"thankful",
 	"amazed",
-	"excited"
+	"excited",
+	"happy",
+	"elated"
 ],
 "significant-person":[
 	"Gandhi",
@@ -123,7 +134,10 @@
 	"Charlamagne tha God",
 	"the sovereign state of Tibet",
 	"Akira Kurosawa",
-	"Rami Malek"
+	"Rami Malek",
+	"Nikola Tesla",
+	"Larry David",
+	"Logan Paul"
 ],
 "method-of-support":[
 	"nurtured my talents",
@@ -134,5 +148,30 @@
 	"opened my eyes to new possibilities",
 	"gave me wise advice",
 	"taught me to love again"
+],
+"multinational-corporation":[
+	"Chuck E Cheese",
+	"Adidas",
+	"HSBC",
+	"Intel",
+	"Toys R Us(RIP)",
+	"eBay",
+	"Bebo",
+	"Ikea",
+	"Saudi Aramco",
+	"Santandare (or should I say Santandave:D)",
+	"Top Dawg Entertainment",
+	"Metro Goldwyn Meyer",
+	"Colgate",
+	"the United States Government"
+],
+"unpaid-work":[
+	"take part in a remote internship",
+	"be a virtual coffee mule",
+	"fill out surveys while pretending to be in key demographics that I don't represent",
+	"research markets",
+	"see the real bitcoin mines out in Wyoming",
+	"test drugs the FDA is hesitant to approve",
+	"star in a TLC show about a man addicted to touching women's shoes (but only while they're being worn)"
 ]
 }

@@ -86,6 +86,8 @@
 	"scary",
 	"frightful"
 ],
+"achievement":[
+],
 "positive-emotion":[
 	"humbled",
 	"thankful",
@@ -116,10 +118,12 @@
 	"the United States Air Force",
 	"Gordon Ramsay",
 	"Spike Lee",
+	"Spike Jonze",
 	"Michel Foucault",
 	"Charlamagne tha God",
 	"the sovereign state of Tibet",
-	"Akira Kurosawa"
+	"Akira Kurosawa",
+	"Rami Malek"
 ],
 "method-of-support":[
 	"nurtured my talents",
@@ -127,6 +131,8 @@
 	"motivated me to be the very best, like no one ever was",
 	"picked me up when I fell down",
 	"were always on hand when I needed a friend",
-	"opened my eyes to new possibilities"
+	"opened my eyes to new possibilities",
+	"gave me wise advice",
+	"taught me to love again"
 ]
 }

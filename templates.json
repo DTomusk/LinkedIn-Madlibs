@@ -1,0 +1,68 @@
+{
+"templates":[
+	{"title":"my life sucks but I still somehow manage to be awesome",
+	"text":"My life is actually really hard because {reason-why-my-life-is-so-hard}, but I still somehow managed to {significant-activity}. Through this I have developed my {skill}, {skill} and {skill} skills."},
+	{"title":"I'm pretty sure everyone's struggling right now, so whatever I manage to do must be amazing",
+	"text":"Everyone's been bummed out by {global-catastrophe} lately and have not managed to get any work done, however I've been able to overcome these {describe-the-circumstances} circumstances and have gone on to {significant-activity}"},
+	{"title":"I'm pretending to thank a company for how good they've been to me so it's not obvious I'm actually bragging about myself",
+	"text":"Thanks to {multinational-corporation} for the amazing opportunity to {unpaid-work} during this {describe-the-circumstances} time"},
+	{"title":"Oscar acceptance speech", 
+	"text":"I'm so {}"}
+],
+"reason-why-my-life-is-so-hard":[
+	"my cat ran away",
+	"the kids at Nike stopped making my favorite shoe",
+	"I had to wear a mask on the bus today and masks do not look good on me",
+	"I saw my ex talking to another guy at the mall again",
+	"Amazon delayed my delivery",
+	"there's too many people in the park, that used to be my quiet place but now there's just a bunch of kids everywhere, it's disgusting",
+	"my mom put parental controls back on my computer",
+	"I didn't go to a zoom meeting and no one messaged me to check if I was ok",
+	"people don't care about me on instagram anymore"
+],
+"global-catastrophe":[
+	"Covid 19",
+	"the war on Christmas",
+	"Eurovision not being on this year",
+	"the Amazon rainforest being on fire",
+	"Kony 2012",
+	"Trump being on twitter",
+	"commodity fetishism",
+	"the top 40 not being what it used to be",
+	"the monopolisation of the diamond industry (did you know the diamond industry is a monopoly, crazy right?)",
+	"higher wages for manufacturers meaning that stuff costs more",
+	"brexit",
+	"the Middle East",
+	"government bailouts",
+	"cancel culture"
+],
+"significant-activity":[
+	"start a free trial on coursera",
+	"attend a webinar on being your best self",
+	"read a hello world tutorial for python",
+	"download five differend IDEs which I plan to test and review individually before I jump into my new career as a software developer",
+	"read an article from the economist",
+	"write an algorithm that guarantees to maximise my matches on hinge and tinder (not bumble because I don't actually like women as people)",
+	"write a bot that pokes fun at the way LinkedIn forces people to act in a certain way that's not true to themselves so soulless multinationals would be interested in buying their labor power",
+	"focus on my career", 
+	"make some time to practice mindfulness during my day",
+	"support the Labor Party on twitter"
+],
+"skill":[
+	"leadership",
+	"teamwork",
+	"time management",
+	"attention span",
+	"sticktoitiveness",
+	"gumption",
+	"attention to detail",
+	"pulling myself up by my bootstraps"
+],
+"describe-the-circumstances":[
+	"unprecedented",
+	"tough",
+	"gruelling",
+	"difficult",
+	"challenging"
+]
+}
